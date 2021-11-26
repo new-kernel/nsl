@@ -1,0 +1,8 @@
+[package]
+name = "nsl"
+version = "0.1.0"
+authors = ["The Novusk developers"]
+edition = "2018"
+description = "A library that lets you run New Shell Language (.nsl) files"
+
+[dependencies]
